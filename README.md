@@ -1,3 +1,5 @@
+<img src="./VSCodium_new_dark_900x900.svg" width="400"/>
+
 ### a dark VSCodium icon
 
 Since the developers of VSCodium keep changing the icon, I've uploaded the one I like best here, together with the Pixelmator template I used to create it. That's it.
