@@ -2,7 +2,7 @@
 
 ### a dark VSCodium icon
 
-Since the developers of VSCodium keep changing the icon, I've uploaded mine here, together with the Pixelmator template to re-create it. That's it.
+Since the developers of VSCodium keep changing the icon, I've uploaded the one I like best here, together with the Pixelmator template to re-create it. That's it.
 
 </br>
 
