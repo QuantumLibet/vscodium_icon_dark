@@ -7,4 +7,4 @@ together with the Pixelmator template to re-create it. That's it.
 
 </br>
 
-To change the icon on macOS place the VSCodium.icns file in /Applications/VSCodium.app/Contents/Resources/.
+To change the icon on macOS place the `VSCodium.icns` file in `/Applications/VSCodium.app/Contents/Resources/`.
